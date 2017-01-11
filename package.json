@@ -1,0 +1,23 @@
+{
+  "name": "todo-localstore",
+  "version": "1.0.0",
+  "description": "todo storage via loaclstorage and vanilla es5",
+  "main": "src/store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-stack/todo-localstore.git"
+  },
+  "keywords": [
+    "todomvc",
+    "localstorage"
+  ],
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lean-stack/todo-localstore/issues"
+  },
+  "homepage": "https://github.com/lean-stack/todo-localstore#readme"
+}
