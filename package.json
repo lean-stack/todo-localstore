@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/lean-stack/todo-localstore#readme",
   "devDependencies": {
+    "eslint": "^3.13.1",
     "jasmine-core": "^2.5.2",
     "karma": "^1.3.0",
     "karma-chrome-launcher": "^2.0.0",
